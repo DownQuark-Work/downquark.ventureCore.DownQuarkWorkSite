@@ -1,3 +1,5 @@
-# downquark.work Metadata
+# DownQuark.work Website
 
-:rotating_light: **WARNING** :rotating_light: This README should only show on the repository at https://github.com/dq-mlnck/*. If it is showing on some other repo, please open an issue to have it fixed.
+Static, non-modular, but gets the job done.
+
+Deployed to [https://www.downquark.work](https://www.downquark.work)
